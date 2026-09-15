@@ -1,20 +1,23 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# LifeLink AI
 
-# Run and deploy your AI Studio app
+### Predict. Protect. Respond.
 
-This contains everything you need to run your app locally.
+LifeLink AI is a healthcare emergency response platform designed to reduce
+critical delays by connecting patients, ambulances, hospitals, doctors,
+and family caregivers.
 
-View your app in AI Studio: https://ai.studio/apps/c0f7c913-a934-48ad-9f0d-ed32c4426109
+## Features
 
-## Run Locally
+- Emergency assistance
+- Ambulance coordination
+- Hospital connectivity
+- Doctor and caregiver support
+- Real-time location sharing
 
-**Prerequisites:**  Node.js
+## Tech Stack
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- React
+- TypeScript
+- Firebase
+- Google Maps API
+- AI-powered services
